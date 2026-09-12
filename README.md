@@ -5,7 +5,7 @@
 ## 專案檔案
 
 - original.html：原始版本，所有 HTML、CSS、JS 併在同一個檔案中。
-- Identity V.html：目前的頁面結構檔案，負責網頁內容與視圖組成。
+- index.html：目前的頁面結構檔案，負責網頁內容與視圖組成。
 - Identity V.css：目前的樣式檔案，包含主題色、布局、卡片、動畫與響應式調整。
 - Identity V.js：目前的互動邏輯檔案，包含切換頁面、按鈕互動、時間選擇、結果生成等功能。
 
@@ -20,7 +20,7 @@ original.html 是此專案的原始版本，特點是：
 - 互動邏輯也直接嵌入網頁內文
 - 適合作為基礎版本或原始草稿使用
 
-### 2. Identity V.html
+### 2. index.html
 
 Identity V.html 是後續整理後的版本，差異如下：
 
@@ -62,7 +62,7 @@ Identity V.js 是從原始頁面中拆離的互動腳本，主要新增與優化
 
 ## 使用方式
 
-1. 直接開啟 Identity V.html 即可瀏覽頁面。
+1. 直接開啟 index.html 即可瀏覽頁面。
 2. 如果需要修改樣式，請編輯 Identity V.css。
 3. 如果需要調整互動邏輯，請編輯 Identity V.js。
 4. original.html 可作為原始版本保留，方便比較修改差異。
